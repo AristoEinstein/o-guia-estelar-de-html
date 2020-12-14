@@ -1,2 +1,2 @@
 # o-guia-estelar-de-html
-Rocketseat HTML
+Projeto que vai ir crescendo comigo ao decorrer das aulas e desafios encontrados no decorrer do curso
